@@ -29,6 +29,7 @@ pip install rich
 git clone https://github.com/STARK-404/INSTA
 cd INSTA 
 python insta.py
+```
 # Note
 **This tool is only For Educational Purposes and Use It on Your Own Risk**
 # Support 
