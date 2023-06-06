@@ -36,4 +36,7 @@ python insta.py
 **This tool is only For Educational Purposes and Use It on Your Own Risk**
 # Support 
 ## Buy Me a  coffe
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+* India
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://pytm.biz/BA)
+* Other Countries 
+* gmail me Amazon.in giftcard @gamerunkown509@gmail.com
