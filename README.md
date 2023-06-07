@@ -18,7 +18,7 @@ pip install rich
 pip install instaloader 
 git clone https://github.com/STARK-404/INSTA/
 cd INSTA
-python insta.py
+python main.py
 ```
 ## Termux 
 ```
@@ -30,7 +30,7 @@ pip install instaloader
 pip install rich 
 git clone https://github.com/STARK-404/INSTA
 cd INSTA 
-python insta.py
+python main.py
 ```
 # Note
 **This tool is only For Educational Purposes and Use It on Your Own Risk**
