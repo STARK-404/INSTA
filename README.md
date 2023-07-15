@@ -5,7 +5,7 @@
 # Author 
 
 <a href="https://github.com/STARK-404/"><img title="Github" src="https://img.shields.io/badge/STARK-404-blue?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-green?style=for-the-badge&logo=instagram)](https://instagram.com/mr_lalu_1232?igshid=YmMyMTA2M2Y=)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-green?style=for-the-badge&logo=instagram)](https://instagram.com/la1uuuuu?igshid=YmMyMTA2M2Y=)
 
 # Installation 
 ## Kali
