@@ -1,7 +1,7 @@
 # INSTA
 **Its Bruteforce Tool For Instagram**
 ## About 
-*This is a Bruteforce tool Officialy Made For Testing Password Strength By Stark*
+*This is a Bruteforce tool Officialy Made For Testing Password Strength*
 # Author 
 
 <a href="https://github.com/STARK-404/"><img title="Github" src="https://img.shields.io/badge/STARK-404-blue?style=for-the-badge&logo=github"></a>
