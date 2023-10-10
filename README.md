@@ -15,7 +15,7 @@ apt upgrade
 apt install python3 
 apt install git
 pip install rich 
-pip install instaloader 
+pip install instagram-private-api
 git clone https://github.com/STARK-404/INSTA/
 cd INSTA
 chmod +x *
@@ -27,7 +27,7 @@ pkg update
 pkg upgrade 
 pkg install python
 pkg install git 
-pip install instaloader 
+pip install instagram-private-api 
 pip install rich 
 git clone https://github.com/STARK-404/INSTA
 cd INSTA 
