@@ -41,7 +41,3 @@ python main.py
 
 <a href="https://www.buymeacoffee.com/mrstarkin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-* India
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://pytm.biz/BA)
-* Other Countries 
-* gmail me Amazon.in giftcard @gamerunkown509@gmail.com
