@@ -1,5 +1,10 @@
 #pip install pycryptodome  , It works only v3.11 Above.
-import random ,base64,codecs,os,zlib;pyobfuscate=""
+import random ,rich,base64,codecs,os,zlib;pyobfuscate=""
+os.system("clear")
+print('[bold green]Follow In Github')
+os.system('xdg-open https://github.com/STARK-404/')
+
+
 try:
   import pycryptodome
 except ImportError:
